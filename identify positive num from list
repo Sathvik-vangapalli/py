@@ -1,0 +1,25 @@
+#for output in normal form
+n=int(input("enter the num of integers"))
+list1=[]
+for i in range(0,n):
+    e=int(input())
+    list1.append(e)
+print(list1)
+for x in list1:
+    if x>0:
+      print(x)
+ .............................
+      
+      
+#for (input("enter the num of integers"))
+list1=[]
+list2=[]
+for in range(0,n):
+    e=int(input())
+    list1.append(e)
+print(list1)
+for x in list1:
+    if x>0:
+      list2.append(x)
+print(list2)
+.................................
